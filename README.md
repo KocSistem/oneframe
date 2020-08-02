@@ -1,6 +1,1 @@
-OneFrame, KoçSistem Ar-Ge Teknoloji ve Mimari birimi altındaki ekiplerce
-geliştirilen bir uygulama çatısıdır. OneFrame, ürün ve geliştirme
-ekiplerimizce yoğun olarak .NET çözümlerinden başlayarak, tekrar
-kullanılabilir bileşen ve servisleri belirli kalite standartlarında
-sağlamakta; bu bileşenlerin geliştirilmesi, sürdürülebilirliği ve
-bakımını garanti etmektedir.
+OneFrame is a software development framework which is being developed by the teams that are part of KocSistem R&D Technology Architecture department. OneFrame teams aim to enable rapid application development by providing reusable components and services to be used by software developers. OneFrame teams guarantee the development, sustainability and maintainance of the components and services that are provided under OneFrame framework.
